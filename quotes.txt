@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+You know, i'm somthing of a programmer myself
+Errors are learning experiences
